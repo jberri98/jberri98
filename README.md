@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jberri98
-- 👀 I’m interested in ... Java, SQL, Django, Docker and Flutter
-- 🌱 I’m currently learning ... System's Engineer
+- 👀 I’m interested in ... Java, SQL, Django, Docker, Flutter and IT Infraestructure
+- 🤓 I’m System's Engineer
+- 🌱 I’m currently learning ... Master of Science in Information Security (MSIS)
 - 💞️ I’m looking to collaborate on ... DevOps
-- 📫 How to contact me ... jaberrio007@gmail.com
 
 <!---
 jberri98/jberri98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
